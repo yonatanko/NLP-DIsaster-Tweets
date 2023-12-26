@@ -32,8 +32,6 @@ The directory structure of the project looks like this:
 │   └── figures          <- Generated graphics and figures to be used in reporting
 │
 ├── requirements.txt     <- The requirements file for reproducing the analysis environment
-|
-├── requirements_dev.txt <- The requirements file for reproducing the analysis environment
 │
 ├── tests                <- Test files
 │
